@@ -1,0 +1,15 @@
+.contenar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 150px;
+}
+.firstbox {
+    background-color: #F4B6C2;
+    padding: 100px 80px;
+}
+.secondbox {
+    background-color: #ADD8E6;
+     padding: 100px 80px;
+}
